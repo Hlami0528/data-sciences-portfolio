@@ -20,17 +20,14 @@ Welcome! This repository documents my journey across the data science pipeline �
 
 ### Project 01 — Survival Patterns Aboard the Titanic
 ***What made the difference between life and death on the Titanic?***
-
 This project digs into one of history's most studied datasets to uncover the demographic and socioeconomic factors that determined passenger survival. Through systematic visual exploration, the analysis reveals how class, gender, and age intersected in the chaos of the disaster 
 
 📎 [Project Folder](./Exploratory-Data-Analysis/Project_01_Titanic_EDA)
 
 **Skills:** `Python` · `Pandas` · `NumPy` · `Seaborn` · `Matplotlib` · `Jupyter` · `Data Analysis` · `Data Visualisation`
 
-
 ### Project 02 — Decoding Emergency Incidents Across Cape Town
 ***Where does Cape Town's emergency response system face the greatest pressure?***
-*
 Using open data published by the City of Cape Town, this project analyses thousands of emergency incident records to identify spatial hotspots, seasonal trends, and the most prevalent categories of urban crises. The goal: empower city planners and emergency services with a clearer picture of where and when incidents cluster across the metro.
 
 📎 [Project Folder](./Exploratory-Data-Analysis/Project_02_Cape_Town_Incidents_EDA)
