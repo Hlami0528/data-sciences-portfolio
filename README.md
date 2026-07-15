@@ -33,7 +33,7 @@ This project digs into one of history's most studied datasets to uncover the dem
 *
 Using open data published by the City of Cape Town, this project analyses thousands of emergency incident records to identify spatial hotspots, seasonal trends, and the most prevalent categories of urban crises. The goal: empower city planners and emergency services with a clearer picture of where and when incidents cluster across the metro.
 
-📎 [Project Folder](./Exploratory-Data-Analysis/Project_02_Cape-Town_Incidents_EDA)
+📎 [Project Folder](./Exploratory-Data-Analysis/Project_02_Cape-Town-Incidents_EDA)
 
 **Skills:** `Python` · `Pandas` · `Seaborn` · `Matplotlib` · `Geospatial Analysis` · `Jupyter` · `Data Visualisation`
 
