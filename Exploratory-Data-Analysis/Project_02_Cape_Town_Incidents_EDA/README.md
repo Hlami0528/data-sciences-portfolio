@@ -1,5 +1,5 @@
-# Project 02 — Decoding Emergency Incidents Across Cape Town
-![CPT Fire Cover Image](images/cpt_incidents.jpeg)
+# 🚨 Cape Town Emergency Response Analytics: Decoding Incident Patterns for Smarter Interventions
+![CPT Fire Cover Image](images/cpt_rescue.jpeg)
 
 ## Executive Summary
 This project analyses emergency incident data published by the City of Cape Town to uncover patterns in urban crises across the metro. Using exploratory data analysis and visualisation, the project identifies where and when incidents are most concentrated, and which categories place the greatest demand on emergency services.
